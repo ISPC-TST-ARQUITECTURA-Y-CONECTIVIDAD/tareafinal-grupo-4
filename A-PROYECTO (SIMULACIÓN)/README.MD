@@ -5,3 +5,7 @@
 Aquí estamos  interconectando el ESP32 con el módulo GPS y la pantalla OLED . Los pines Vcc y GND del módulo GPS están conectados a 3,3 V y GND de ESP32, mientras que los pines RX y TX están conectados a los pines TX2 y RX2 de ESP32. El modo I2C se utiliza para conectar el módulo de pantalla OLED (SSD1306) con ESP32. Las conexiones entre ESP32 y la pantalla OLED se dan como:
 
 ![Sin título](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-4/assets/106171748/420a7c5c-a268-49cc-8399-05b4e2ceeafb)
+
+# CONEXIONADO UTILIZANDO UNA PROTOBOARD
+
+![ESP32-with-NEO-6M-and-OLED-schematic](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-4/assets/106171748/4a7fed71-a58a-4737-9374-6bb7f1f57524)
